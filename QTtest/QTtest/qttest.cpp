@@ -8,5 +8,5 @@ QTtest::QTtest(QWidget *parent)
 
 QTtest::~QTtest()
 {
-
+    int a = 0;
 }
